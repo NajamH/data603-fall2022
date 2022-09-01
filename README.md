@@ -8,7 +8,7 @@ Office hours: Thursday 9:40 pm after class or online by appointment</br>
 Linkedin: https://www.linkedin.com/in/najamhassan/
 
 Graduate Grader/Tutor : Udveg Reddy Jukanti</br>
-Email: [FU63933@umbc.edu](mailto:FU63933@umbc.edu)
+Email: [udvegrj1@umbc.edu](mailto:udvegrj1@umbc.edu)
 
 # Course Description
 
