@@ -3,7 +3,8 @@
 # Data 603: Platforms for Big Data Processing - Fall 2022
 
 Instructor : Dr. Najam Hassan</br>
-Email: [nhassan@umbc.edu](mailto:nhassan@umbc.edu)  
+Email: [nhassan@umbc.edu](mailto:nhassan@umbc.edu)</br>
+Linkedin: https://www.linkedin.com/in/najamhassan/
 
 Graduate Grader/Tutor : Udveg Reddy Jukanti</br>
 Email: [FU63933@umbc.edu](mailto:FU63933@umbc.edu)
