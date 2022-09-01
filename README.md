@@ -1,12 +1,12 @@
  ![image](https://user-images.githubusercontent.com/4869523/152448346-24012b92-318d-4ac5-83ff-599f381cc63d.png)
 
-# Data 603: Platforms for Big Data Processing
+# Data 603: Platforms for Big Data Processing - Fall 2022
 
-Instructor: Andy Enkeboll
+Instructor : Dr. Najam Hassan
+Email: [nhassan@umbc.edu](mailto:nhassan@umbc.edu)  
 
-Email: [enkeboll@umbc.edu](mailto:enkeboll@umbc.edu)  
-Spring 2022  
-Class Number: 7511  
+Graduate Grader/Tutor : Udveg Reddy Jukanti
+Email: [FU63933@umbc.edu](mailto:FU63933@umbc.edu)
 
 # Course Description
 
@@ -28,73 +28,57 @@ Upon completion, students will:
 
 # Meeting Times
 
-Thursday – 7:10 - 9:40, classes via Webex (email if you need the link)
+Thursday – 7:10 - 9:40, in-person, on-site classes
 
-01/31/2022 - 05/17/2022
-
-For Spring 2022 Academic Calendar, refer to [https://registrar.umbc.edu/spring-graduate-academic-calendar/](https://registrar.umbc.edu/spring-graduate-academic-calendar/)
+09/01/2022 - 12/13/2022
 
 # Syllabus (Subject to change)
 
-| **Date** | **Topic** |
-| --- | --- |
-| **Week 1<br/>2022-02-03** | - Big Data and Distributed Computing Introduction |
-| **Week 2<br/>2022-02-10** |- Distributed File Systems and File Formats<br/>- Distributed Databases: HBase/Accumulo, Cassandra |
-| **Week 3<br/>2022-02-17** |- Map Reduce Design Patterns<br/>- Introduction to Cloud Computing |
-| **Week 4<br/>2022-02-24** |- Introduction to Apache Spark<br/>- Spark Resilient Distributed Dataset (RDD), Data Frame<br/> |
-| **Week 5<br/>2022-03-03** |- Spark Structured API Part 1 |
-| **Week 6<br/>2022-03-10** |- Spark Structured API Part 2 |
-| **Week 7<br/>2022-03-17** |- Structured Streaming Part 1 |
-| **Week 8<br/>2022-03-24** |- Structured Streaming Part 2 |
-| **Week 9<br/>2022-03-31** |- No Class – Spring Break |
-| **Week 10<br/>2022-04-07** |- Advanced Analytics Part 1 |
-| **Week 11<br/>2022-04-14** |- Advanced Analytics Part 2<br/>- _Project progress report_ |
-| **Week 12<br/>2022-04-21** |- Graph Processing |
-| **Week 13<br/>2022-04-28** |- _Technical paper due_<br/>- Monitoring, Debugging, Performance Tuning |
-| **Week 14<br/>2022-05-05** |- Project Presentations 1 |
-| **Week 15<br/>2022-05-12** |- _Project presentation due_<br/>- Project Presentations 2 |
+| Week | **Date** | **Topic** |
+| --- | --- | --- |
+| **Week 1** | 09-01-2022 | - Big Data and Distributed Computing Introduction |
+| **Week 2** | 09-08-2022  |- Distributed File Systems and File Formats<br/>- Distributed Databases: HBase/Accumulo, Cassandra |
+| **Week 3** | 09-15-2022  |- Map Reduce Design Patterns<br/>- Introduction to Cloud Computing |
+| **Week 4** | 09-22-2022  |- Introduction to Apache Spark<br/>- Spark Resilient Distributed Dataset (RDD), Data Frame<br/> |
+| **Week 5** | 09-29-2022  |- Spark Structured API Part 1 |
+| **Week 6** | 10-06-2022  |- Spark Structured API Part 2 |
+| **Week 7** | 10-13-2022  |- Structured Streaming Part 1 |
+| **Week 8** | 10-20-2022  |- Structured Streaming Part 2 |
+| **Week 9** | 10-27-2022  |- Advanced Analytics Part 1 |
+| **Week 10** | 11-03-2022  |- Advanced Analytics Part 2<br/>- _Project progress report_ |
+| **Week 11** | 11-10-2022  |- Graph Processing |
+| **Week 12** | 11-17-2022  |- _Technical paper due_<br/>- Monitoring, Debugging, Performance Tuning |
+| **Week 13** | 11-24-2022  |- Happy Thanksgiving - No Class |
+| **Week 14** | 12-01-2022  |- Project Presentations 1 |
+| **Week 15** | 12-08-2022  |- _Project presentation due_<br/>- Project Presentations 2 |
 
-# Materials
+# Suggested Readings:
 
-Suggested Readings:
 
 - Chambers, Bill, and Matei Zaharia. [_Spark: The Definitive Guide: Big Data Processing Made Simple_](https://analyticsdata24.files.wordpress.com/2020/02/spark-the-definitive-guide40www.bigdatabugs.com_.pdf). O&#39;Reilly Media, 2018.
 
-- Damji, Jules S., et al. Learning Spark: Lightning-Fast Data Analytics 2nd Edition O&#39;Reilly Media, 2018.
-  - NOTE: Free download at: [_https://databricks.com/p/ebook/learning-spark-from-oreilly_](https://databricks.com/p/ebook/learning-spark-from-oreilly), use your UMBC email address.
-
-# Class Structure (Tentative)
-
-| **Time** | **Topic** |
-| --- | --- |
-| **7:10** | Review Homework / Discussion |
-| **7:30** | Primary Lecture |
-| **8:45** | Break ~15 Minutes |
-| **9:00** | Secondary Lecture / Demos |
-| **9:30** | Review / Quiz / Upcoming |
-| **9:40** | Adjourn |
-
 # Format and Assignments
 
-Students will complete 4-7 homework assignments, online and in-class discussions, a semester-long project, and a final paper. Homework will give students an opportunity to gain practical insights with specific big data methods. The project will give students the opportunity to practice big data management by developing a big data processing application using a common big data platform.
+Students will complete 4-7 assignments, online and in-class discussions, a semester-long project, and a final paper. Assignments will give students an opportunity to gain practical insights with specific big data methods. The project will give students the opportunity to practice big data management by developing a big data processing application using a common big data platform.
 
 # Grading Criteria
 
 | **Course Work** | **Grade Weight** |
 | --- | --- |
-| **Homework** | 25% |
-| **Participation** | 10% |
+| **Attendance & Participation** | 10% |
 | **Quizzes** | 10% |
-| **Project** | 35% |
+| **Homework** | 25% |
 | **Technical Research Paper** | 20% |
+| **Project** | 35% |
 
-Students are expected to participate in class and online discussions. You will get more out of the class by contributing to it.
+
+Students are expected to participate in class discussions. You will get more out of the class by contributing to it.
 
 Final grade will be computed as follows:
 
 | **Grade Range** | **Letter Grade** |
 | --- | --- |
-| **\&gt;93%** | A |
+| **&gt;93%** | A |
 | **90-92%** | A- |
 | **87-89%** | B+ |
 | **83-86%** | B |
@@ -104,7 +88,7 @@ Final grade will be computed as follows:
 | **70-72%** | C- |
 | **67-69%** | D+ |
 | **60-66%** | D |
-| **\&lt; 60%** | F |
+| **&lt; 60%** | F |
 
 # Policies
 
