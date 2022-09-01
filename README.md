@@ -30,7 +30,7 @@ Upon completion, students will:
 
 # Meeting Times
 
-Thursday – 7:10 - 9:40, in-person, on-site classes
+Thursday – 7:10 - 9:40, in-person, on-site classes in IT Building - Rm. 241
 
 09/01/2022 - 12/13/2022
 
