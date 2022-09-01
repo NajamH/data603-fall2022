@@ -2,10 +2,10 @@
 
 # Data 603: Platforms for Big Data Processing - Fall 2022
 
-Instructor : Dr. Najam Hassan
+Instructor : Dr. Najam Hassan</br>
 Email: [nhassan@umbc.edu](mailto:nhassan@umbc.edu)  
 
-Graduate Grader/Tutor : Udveg Reddy Jukanti
+Graduate Grader/Tutor : Udveg Reddy Jukanti</br>
 Email: [FU63933@umbc.edu](mailto:FU63933@umbc.edu)
 
 # Course Description
@@ -54,6 +54,8 @@ Thursday – 7:10 - 9:40, in-person, on-site classes
 
 # Suggested Readings:
 
+- White, Tom. [_Hadoop: The Definitive Guide: Storage and Analysis at Internet Scale 4th Edition_](https://grut-computing.com/HadoopBook.pdf). 
+O&#39;Reilly Media, 2015.
 
 - Chambers, Bill, and Matei Zaharia. [_Spark: The Definitive Guide: Big Data Processing Made Simple_](https://analyticsdata24.files.wordpress.com/2020/02/spark-the-definitive-guide40www.bigdatabugs.com_.pdf). O&#39;Reilly Media, 2018.
 
