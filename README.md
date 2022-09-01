@@ -4,6 +4,7 @@
 
 Instructor : Dr. Najam Hassan</br>
 Email: [nhassan@umbc.edu](mailto:nhassan@umbc.edu)</br>
+Office hours: Thursday 9:40 pm after class or online by appointment</br>
 Linkedin: https://www.linkedin.com/in/najamhassan/
 
 Graduate Grader/Tutor : Udveg Reddy Jukanti</br>
