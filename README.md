@@ -43,7 +43,7 @@ Thursday – 7:10 - 9:40, in-person, on-site classes in IT Building - Rm. 241
 | **Week 3** | 09-15-2022  |- Map Reduce Design Patterns<br/>- Introduction to Cloud Computing |
 | **Week 4** | 09-22-2022  |- NoSQL Databases |
 | **Week 5** | 09-29-2022  |- Introduction to Apache Spark |
-| **Week 6** | 10-06-2022  |- Spark Resilient Distributed Dataset (RDD) |
+| **Week 6** | 10-06-2022  |- Spark Resilient Distributed Dataset (RDD)<br/>- Data Warehouse, Data Lakes & Data Lakehouse |
 | **Week 7** | 10-13-2022  |- Spark Structured API |
 | **Week 8** | 10-20-2022  |- Structured Streaming |
 | **Week 9** | 10-27-2022  |- Advanced Analytics Part 1 |
