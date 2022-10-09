@@ -43,8 +43,7 @@ Thursday – 7:10 - 9:40, in-person, on-site classes in IT Building - Rm. 241
 | **Week 3** | 09-15-2022  |- Map Reduce Design Patterns<br/>- Introduction to Cloud Computing | - Assignment: Big Data Topics Markdown |
 | **Week 4** | 09-22-2022  |- NoSQL Databases | - Assignment: Word Count using MapReduce |
 | **Week 5** | 09-29-2022  |- Introduction to Apache Spark |- Project: Team Assignment & Project Selection |
-| **Week 6** | 10-06-2022  |- Spark Resilient Distributed Dataset (RDD)<br/>- Data Warehouse, Data Lakes & Data Lakehouse 
-| - Project: Proposal Presentation<br/>- Company Assessment: Company Selected & Assigned | 
+| **Week 6** | 10-06-2022  |- Spark Resilient Distributed Dataset (RDD)<br/>- Data Warehouse, Data Lakes & Data Lakehouse | - Project: Proposal Presentation<br/>- Company Assessment: Company Selected & Assigned | 
 | **Week 7** | 10-13-2022  |- Spark Structured API | - Technical Paper: Topic Approval |
 | **Week 8** | 10-20-2022  |- Structured Streaming ||
 | **Week 9** | 10-27-2022  |- Advanced Analytics Part 1 ||
