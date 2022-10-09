@@ -40,15 +40,15 @@ Thursday – 7:10 - 9:40, in-person, on-site classes in IT Building - Rm. 241
 | --- | --- | --- | --- |
 | **Week 1** | 09-01-2022 | - Big Data and Distributed Computing Introduction ||
 | **Week 2** | 09-08-2022  |- Distributed File Systems and File Formats<br/>- Distributed Databases ||
-| **Week 3** | 09-15-2022  |- Map Reduce Design Patterns<br/>- Introduction to Cloud Computing | - Assignment: Big Data Topics Markdown |
-| **Week 4** | 09-22-2022  |- NoSQL Databases | - Assignment: Word Count using MapReduce |
+| **Week 3** | 09-15-2022  |- Map Reduce Design Patterns<br/>- Introduction to Cloud Computing | - Assignment 1: Big Data Topics Markdown |
+| **Week 4** | 09-22-2022  |- NoSQL Databases | - Assignment 2: Word Count using MapReduce |
 | **Week 5** | 09-29-2022  |- Introduction to Apache Spark |- Project: Team Assignment & Project Selection |
 | **Week 6** | 10-06-2022  |- Spark Resilient Distributed Dataset (RDD)<br/>- Data Warehouse, Data Lakes & Data Lakehouse | - Project: Proposal Presentation<br/>- Company Assessment: Company Selected & Assigned | 
-| **Week 7** | 10-13-2022  |- Spark Structured API | - Technical Paper: Topic Approval |
-| **Week 8** | 10-20-2022  |- Structured Streaming ||
-| **Week 9** | 10-27-2022  |- Advanced Analytics Part 1 ||
-| **Week 10** | 11-03-2022  |- Advanced Analytics Part 2 | - Project: Progress Report |
-| **Week 11** | 11-10-2022  |- Graph Processing ||
+| **Week 7** | 10-13-2022  |- Spark Structured API | - Technical Paper: Topic Approval<br/>- Quiz 1: Week 1-4 |
+| **Week 8** | 10-20-2022  |- Structured Streaming | - Assignment 3: Using Apache Spark |
+| **Week 9** | 10-27-2022  |- Advanced Analytics Part 1 | - Assignment 4: Using Apache Kafka |
+| **Week 10** | 11-03-2022  |- Advanced Analytics Part 2 | - Company Assessment: Final Presentation |
+| **Week 11** | 11-10-2022  |- Graph Processing | - Project: Progress Report<br/>- Quiz 2: Week 5-10 |
 | **Week 12** | 11-17-2022  |- Monitoring, Debugging, Performance Tuning | -Technical Paper: Final Submission |
 | **Week 13** | 11-24-2022  |- Happy Thanksgiving - No Class ||
 | **Week 14** | 12-01-2022  |- Project Presentations 1 ||
