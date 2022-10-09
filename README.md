@@ -36,8 +36,8 @@ Thursday – 7:10 - 9:40, in-person, on-site classes in IT Building - Rm. 241
 
 # Syllabus (Subject to change)
 
-| Week | **Date** | **Topic** |
-| --- | --- | --- |
+| Week | **Date** | **Topic** | **Assignment/Quiz Due** |
+| --- | --- | --- | --- |
 | **Week 1** | 09-01-2022 | - Big Data and Distributed Computing Introduction |
 | **Week 2** | 09-08-2022  |- Distributed File Systems and File Formats<br/>- Distributed Databases |
 | **Week 3** | 09-15-2022  |- Map Reduce Design Patterns<br/>- Introduction to Cloud Computing |
