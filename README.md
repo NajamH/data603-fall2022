@@ -38,21 +38,21 @@ Thursday – 7:10 - 9:40, in-person, on-site classes in IT Building - Rm. 241
 
 | Week | **Date** | **Topic** | **Assignment/Quiz Due** |
 | --- | --- | --- | --- |
-| **Week 1** | 09-01-2022 | - Big Data and Distributed Computing Introduction |
-| **Week 2** | 09-08-2022  |- Distributed File Systems and File Formats<br/>- Distributed Databases |
-| **Week 3** | 09-15-2022  |- Map Reduce Design Patterns<br/>- Introduction to Cloud Computing |
-| **Week 4** | 09-22-2022  |- NoSQL Databases |
-| **Week 5** | 09-29-2022  |- Introduction to Apache Spark |
-| **Week 6** | 10-06-2022  |- Spark Resilient Distributed Dataset (RDD)<br/>- Data Warehouse, Data Lakes & Data Lakehouse |
-| **Week 7** | 10-13-2022  |- Spark Structured API |
-| **Week 8** | 10-20-2022  |- Structured Streaming |
-| **Week 9** | 10-27-2022  |- Advanced Analytics Part 1 |
-| **Week 10** | 11-03-2022  |- Advanced Analytics Part 2<br/>- _Project progress report_ |
-| **Week 11** | 11-10-2022  |- Graph Processing |
-| **Week 12** | 11-17-2022  |- _Technical paper due_<br/>- Monitoring, Debugging, Performance Tuning |
-| **Week 13** | 11-24-2022  |- Happy Thanksgiving - No Class |
-| **Week 14** | 12-01-2022  |- Project Presentations 1 |
-| **Week 15** | 12-08-2022  |- _Project presentation due_<br/>- Project Presentations 2 |
+| **Week 1** | 09-01-2022 | - Big Data and Distributed Computing Introduction ||
+| **Week 2** | 09-08-2022  |- Distributed File Systems and File Formats<br/>- Distributed Databases ||
+| **Week 3** | 09-15-2022  |- Map Reduce Design Patterns<br/>- Introduction to Cloud Computing | Assignment - Big Data Topics Markdown |
+| **Week 4** | 09-22-2022  |- NoSQL Databases | Assignment - Harry Potter Word Count using MapReduce |
+| **Week 5** | 09-29-2022  |- Introduction to Apache Spark ||
+| **Week 6** | 10-06-2022  |- Spark Resilient Distributed Dataset (RDD)<br/>- Data Warehouse, Data Lakes & Data Lakehouse ||
+| **Week 7** | 10-13-2022  |- Spark Structured API ||
+| **Week 8** | 10-20-2022  |- Structured Streaming ||
+| **Week 9** | 10-27-2022  |- Advanced Analytics Part 1 ||
+| **Week 10** | 11-03-2022  |- Advanced Analytics Part 2<br/>- _Project progress report_ ||
+| **Week 11** | 11-10-2022  |- Graph Processing ||
+| **Week 12** | 11-17-2022  |- _Technical paper due_<br/>- Monitoring, Debugging, Performance Tuning ||
+| **Week 13** | 11-24-2022  |- Happy Thanksgiving - No Class ||
+| **Week 14** | 12-01-2022  |- Project Presentations 1 ||
+| **Week 15** | 12-08-2022  |- _Project presentation due_<br/>- Project Presentations 2 ||
 
 # Suggested Readings:
 
