@@ -12,10 +12,9 @@ Email: [udvegrj1@umbc.edu](mailto:udvegrj1@umbc.edu)
 
 # Course Description
 
-The goal of this course is to introduce methods, technologies, and computing platforms for performing data analysis at scale. Topics include the theory and techniques for data acquisition, cleansing, aggregation, management of large heterogeneous data collections, processing, information and knowledge extraction. Students are introduced to map-reduce, streaming, and external memory algorithms and implementations using Hadoop and its ecosystem (MapReduce, HBase, Spark, and others). Students are also introduced to modern big data warehousing tools such as BigQuery, Snowflake, Databricks, and Singlestore. The focus of this course is to gain real-world, industry experience in analyzing large datasets and interacting with big data databases.
+The goal of this course is to introduce methods, technologies, and computing platforms for performing data analysis at scale. Topics include the theory and techniques for data acquisition, cleansing, aggregation, management of large heterogeneous data collections, processing, information and knowledge extraction. Students are introduced to map-reduce, streaming, and external memory algorithms and their implementations using Hadoop and its eco-system (HBase, Hive, Pig and Spark). Students will gain practical experience in analyzing large existing databases.
 
-**Prerequisite:** Enrollment in the Data Science program. Other students may be admitted with instructor permission. Programming experience.
-
+**Prerequisite:** Enrollment in the Data Science program and DATA 601. Other students may be admitted with instructor permission. Programming experience.
 **Corequisite:** DATA 601: Introduction to Data Science
 
 # Learning Objectives
