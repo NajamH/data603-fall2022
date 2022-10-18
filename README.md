@@ -31,7 +31,7 @@ Upon completion, students will:
 
 Thursday – 7:10 - 9:40, in-person, on-site classes in IT Building - Rm. 241
 
-09/01/2022 - 12/13/2022
+09/01/2022 - 12/08/2022
 
 # Syllabus (Subject to change)
 
@@ -43,12 +43,12 @@ Thursday – 7:10 - 9:40, in-person, on-site classes in IT Building - Rm. 241
 | **Week 4** | 09-22-2022  |- NoSQL Databases | - Assignment 2: Word Count using MapReduce |
 | **Week 5** | 09-29-2022  |- Introduction to Apache Spark |- Project: Team Assignment & Project Selection |
 | **Week 6** | 10-06-2022  |- Spark Resilient Distributed Dataset (RDD)<br/>- Data Warehouse, Data Lakes & Data Lakehouse | - Project: Proposal Presentation<br/>- Company Assessment: Company Selected & Assigned | 
-| **Week 7** | 10-13-2022  |- Spark Structured API | - Technical Paper: Topic Approval<br/>- Quiz 1: Week 1-4 |
-| **Week 8** | 10-20-2022  |- Structured Streaming | - Assignment 3: Using Apache Spark |
-| **Week 9** | 10-27-2022  |- Advanced Analytics Part 1 | - Assignment 4: Using Apache Kafka |
-| **Week 10** | 11-03-2022  |- Advanced Analytics Part 2 | - Company Assessment: Final Presentation |
-| **Week 11** | 11-10-2022  |- Graph Processing | - Project: Progress Report<br/>- Quiz 2: Week 5-10 |
-| **Week 12** | 11-17-2022  |- Monitoring, Debugging, Performance Tuning | -Technical Paper: Final Submission |
+| **Week 7** | 10-13-2022  |- Quiz #1<br/>- Apache Hive | - Technical Paper: Topic Approval<br/>- Quiz 1: Week 1-4 |
+| **Week 8** | 10-20-2022  |- Spark Structured API<br/>- Structured Streaming | - Assignment 3: Using Apache Spark |
+| **Week 9** | 10-27-2022  |- Apache HBase<br/>- Apache Pig ||
+| **Week 10** | 11-03-2022  |- Advanced Analytics | - Company Assessment: Final Presentation |
+| **Week 11** | 11-10-2022  |- Graph Processing | - Project: Progress Report<br/>- Assignment 4: Streaming Assignment |
+| **Week 12** | 11-17-2022  |- Monitoring, Debugging, Performance Tuning | -Technical Paper: Final Submission<br/>- Quiz 2: Week 5-11 |
 | **Week 13** | 11-24-2022  |- Happy Thanksgiving - No Class ||
 | **Week 14** | 12-01-2022  |- Project Presentations 1 ||
 | **Week 15** | 12-08-2022  |- Project Presentations 2 | - Project: Final Submission & Presentation |
