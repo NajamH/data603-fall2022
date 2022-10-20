@@ -44,7 +44,7 @@ Thursday – 7:10 - 9:40, in-person, on-site classes in IT Building - Rm. 241
 | **Week 5** | 09-29-2022  |- Introduction to Apache Spark |- Project: Team Assignment & Project Selection |
 | **Week 6** | 10-06-2022  |- Spark Resilient Distributed Dataset (RDD)<br/>- Data Warehouse, Data Lakes & Data Lakehouse | - Project: Proposal Presentation<br/>- Company Assessment: Company Selected & Assigned | 
 | **Week 7** | 10-13-2022  |- Quiz #1<br/>- Apache Hive | - Technical Paper: Topic Approval<br/>- Quiz 1: Week 1-4 |
-| **Week 8** | 10-20-2022  |- Spark Structured API<br/>- Structured Streaming | - Assignment 3: Using Apache Spark |
+| **Week 8** | 10-20-2022  |- Structured Streaming | - Assignment 3: Using Apache Spark |
 | **Week 9** | 10-27-2022  |- Apache HBase<br/>- Apache Pig ||
 | **Week 10** | 11-03-2022  |- Advanced Analytics | - Company Assessment: Final Presentation |
 | **Week 11** | 11-10-2022  |- Graph Processing | - Project: Progress Report<br/>- Assignment 4: Streaming Assignment |
