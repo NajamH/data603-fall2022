@@ -46,7 +46,7 @@ Thursday – 7:10 - 9:40, in-person, on-site classes in IT Building - Rm. 241
 | **Week 7** | 10-13-2022  |- Quiz #1<br/>- Apache Hive | - Technical Paper: Topic Approval<br/>- Quiz 1: Week 1-4 |
 | **Week 8** | 10-20-2022  |- Spark Streaming<br/>- Apache Storm<br/>- Apache Kafka | - Assignment 3: Using Apache Spark |
 | **Week 9** | 10-27-2022  |- Apache HBase<br/>- Apache Pig ||
-| **Week 10** | 11-03-2022  |- Advanced Analytics | - Company Assessment: Final Presentation |
+| **Week 10** | 11-03-2022  |- "FAANG" Big Data Presentations and Discussion | - Company Assessment: Final Presentation |
 | **Week 11** | 11-10-2022  |- Graph Processing | - Project: Progress Report<br/>- Assignment 4: Streaming Assignment |
 | **Week 12** | 11-17-2022  |- Quiz #2<br/>- Monitoring, Debugging, Performance Tuning | -Technical Paper: Final Submission<br/>- Quiz 2: Week 5-11 |
 | **Week 13** | 11-24-2022  |- Happy Thanksgiving - No Class ||
