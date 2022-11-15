@@ -50,8 +50,8 @@ Thursday – 7:10 - 9:40, in-person, on-site classes in IT Building - Rm. 241
 | **Week 11** | 11-10-2022  |- Apache HUE<br/>- Hadoop YARN |- Assignment 4: Streaming Assignment |
 | **Week 12** | 11-17-2022  |- Quiz #2<br/>- Project: Progress Report | -Technical Paper: Final Submission<br/>- Quiz 2: Week 5-11 |
 | **Week 13** | 11-24-2022  |- Happy Thanksgiving - No Class ||
-| **Week 14** | 12-01-2022  |- Project Presentations 1 ||
-| **Week 15** | 12-08-2022  |- Project Presentations 2 | - Project: Final Submission & Presentation |
+| **Week 14** | 12-01-2022  |- Apache ZooKeeper ||
+| **Week 15** | 12-08-2022  |- Project Presentations | - Project: Final Submission & Presentation |
 
 # Suggested Readings:
 
